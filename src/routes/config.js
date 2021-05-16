@@ -3,7 +3,7 @@ import Home from '../views/Home/Home';
 
 const configs = [
   {
-    path: '/home',
+    path: '/',
     component: Home
   },
   {
